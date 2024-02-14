@@ -10,7 +10,8 @@ Detecting trenches and crests using edge detection using two methods - Canny and
 
 # How to run
 Using the main file:
-"""
+```
 python main.py -i <input_path> -m <method: canny, zero-dog, zero-log> -f <output_format: shp, xyz>
-"""
+```
+
 
